@@ -1,1 +1,3 @@
-# alaa-K
+# Hi there 👋
+
+I am a Software Development student with a strong focus on backend engineering and mobile application development. I have hands-on experience working with Java and backend technologies, where I have built structured, maintainable, and scalable applications following clean code principles. I enjoy designing efficient system logic, working with databases, and understanding how different components of an application integrate together. In addition to backend development, I have experience in mobile development, building user-focused applications with attention to performance and usability. I am passionate about continuous learning, improving my technical skills, and contributing to meaningful software projects that solve real-world problems.
